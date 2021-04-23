@@ -1,2 +1,2 @@
-# recsys-model
-models for recommendation system
+# dolphin-recsys-model
+models for dolphin recommendation system
