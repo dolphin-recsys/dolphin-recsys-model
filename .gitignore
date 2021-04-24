@@ -1,2 +1,8 @@
 
 .DS_Store
+
+# do not upload source data
+dataset
+
+# jupyter checkpoint
+.ipynb_checkpoints
